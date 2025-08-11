@@ -1,0 +1,30 @@
+# Loại trừ thư mục cache lớn gây lỗi GitHub
+admin-app/admin-app/cache/
+customer-aap/customer-aap/cache/
+
+# Node modules (Angular)
+node_modules/
+admin-app/node_modules/
+customer-aap/node_modules/
+
+# Output build .NET
+bin/
+obj/
+*.user
+*.suo
+
+# VSCode/Visual Studio config
+.vscode/
+*.vs/
+*.swp
+
+# Thư mục tạm khác
+dist/
+admin-app/dist/
+customer-aap/dist/
+.env
+.env.*
+
+# Mac/Windows hệ thống
+.DS_Store
+Thumbs.db
