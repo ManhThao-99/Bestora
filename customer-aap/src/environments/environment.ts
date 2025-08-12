@@ -1,6 +1,6 @@
 import { Environment } from '@abp/ng.core';
 
-const baseUrl = 'http://localhost:4201';
+const baseUrl = 'https://localhost:4201';
 
 export const environment = {
   production: false,

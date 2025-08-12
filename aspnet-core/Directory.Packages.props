@@ -1,0 +1,11 @@
+<Project>
+  <ItemGroup>
+    <PackageVersion Include="OpenIddict.Abstractions" Version="7.0.0" />
+    <PackageVersion Include="OpenIddict.Core" Version="7.0.0" />
+    <PackageVersion Include="OpenIddict.Server" Version="7.0.0" />
+    <PackageVersion Include="OpenIddict.Server.AspNetCore" Version="7.0.0" />
+    <PackageVersion Include="OpenIddict.Validation" Version="7.0.0" />
+    <PackageVersion Include="OpenIddict.Validation.AspNetCore" Version="7.0.0" />
+    <PackageVersion Include="OpenIddict.Validation.ServerIntegration" Version="7.0.0" />
+  </ItemGroup>
+</Project>
